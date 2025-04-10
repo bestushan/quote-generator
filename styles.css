@@ -1,0 +1,6 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  #quote-container {
+    min-height: 120px;
+  }
